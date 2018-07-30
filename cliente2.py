@@ -1,5 +1,5 @@
 ##########################################################
-##Codigo cliente escrito por Ricardo Tosin e Paulo Baran##
+##Codigo cliente escrito por Ricardo Tosin ###############
 ##########################################################
  
 import socket   
