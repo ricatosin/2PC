@@ -1,5 +1,5 @@
 #################################################
-##Codigo escrito por Ricardo Tosin e Paulo Baran##
+##Codigo escrito por Ricardo Tosin################
 ##################################################
 import socket
 import sys
